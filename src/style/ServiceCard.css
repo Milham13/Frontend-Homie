@@ -1,0 +1,25 @@
+.service-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .service-card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .service-card-title {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .service-card-description {
+    font-size: 1rem;
+    color: #555;
+  }
